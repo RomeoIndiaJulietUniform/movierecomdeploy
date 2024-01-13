@@ -1,0 +1,27 @@
+:root {
+  --background-image: url('./Images/Desktop.jpg');
+}
+
+body {
+  background-image: var(--background-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+
+.hotfix{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.footer {
+  margin-top: auto;
+  padding-bottom: 20px;  
+}
+
+
+
