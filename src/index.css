@@ -10,8 +10,7 @@ body {
   margin: 0;
 }
 
-
-.hotfix{
+.hotfix {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -20,8 +19,24 @@ body {
 
 .footer {
   margin-top: auto;
-  padding-bottom: 20px;  
 }
 
+/* Media queries for responsiveness */
 
+/* Small screens (phones) */
+@media only screen and (max-width: 600px) {
+  body {
+    background-size: cover; 
+  }
+}
+
+/* Medium screens (tablets) */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  /* Add specific styles for medium-sized screens here if needed */
+}
+
+/* Large screens (desktops) */
+@media only screen and (min-width: 1025px) {
+  /* Add specific styles for large screens here if needed */
+}
 
