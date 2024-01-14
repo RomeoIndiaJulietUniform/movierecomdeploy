@@ -22,19 +22,19 @@ const Footer = () => {
                   <span style={{ paddingRight: 5 }}>Copyright </span>
                   <FontAwesomeIcon icon={faCopyright} />{" "}
                   <span style={{ paddingLeft: 5 }}>
-                      {new Date().getFullYear()} YourCompany. All Rights
+                      {new Date().getFullYear()} Riju Mondal. All Rights
                       Reserved.
                   </span>
               </div>
               <a
-                  href="https://github.com/sudiptob2/simple-react-footer"
+                  href="https://github.com/rijuoddusual1999"
                   target="_blank"
                   className="item3"
               >
                   <FontAwesomeIcon icon={faGithub} />
               </a>
               <a
-                  href="http://fb.com/sudiptob2"
+                  href="https://www.linkedin.com/in/riju-mondal-137686244"
                   target="_blank"
                   className="item4"
               >
