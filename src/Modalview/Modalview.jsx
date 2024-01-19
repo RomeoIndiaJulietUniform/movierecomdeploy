@@ -6,7 +6,7 @@ const PrivacyModal = (props) => {
     const [open, setOpen] = React.useState(false);
     const policyText = (
         <p>
-            Veer Bhogya Basundhara 
+             I code
         </p>
     );
     return (
