@@ -9,6 +9,7 @@ const SearchBar = () => {
   const [recommendedMovies, setRecommendedMovies] = useState(null);
   const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
+
   const fetchResult = (value) => {
     fetch(`${API_BASE_URL}/api/similar_names/${value}`)
       .then((response) => response.json())
