@@ -41,7 +41,7 @@ const Footer = () => {
                   <FontAwesomeIcon icon={faLinkedin} />
               </a>
               <a
-                  href="https://www.youtube.com/"
+                  href="https://www.youtube.com/watch?v=OoO5d5P0Jn4&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV"
                   target="_blank"
                   className="item5"
               >
