@@ -27,7 +27,7 @@ const Footer = () => {
                   </span>
               </div>
               <a
-                  href="https://github.com/rijuoddusual1999"
+                  href="https://github.com/RomeoIndiaJulietUniform"
                   target="_blank"
                   className="item3"
               >
